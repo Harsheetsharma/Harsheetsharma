@@ -28,7 +28,7 @@ Core ideas:
 - Worker orchestration
 - Fault isolation
 
-Focus: reliability & system resilience.
+Focus: reliability & system resilience.  
 Repo : https://github.com/harsheetsharma/opsflow
 
 ---
@@ -42,7 +42,7 @@ Key engineering aspects:
 - Concurrency-safe balance updates
 - Failure recovery patterns
 
-This project explores real-world payment system challenges.
+This project explores real-world payment system challenges.  
 Repo : https://github.com/harsheetsharma/paytm-complete
 
 ---
@@ -55,7 +55,7 @@ Goal:
 - Intelligent event classification
 - AI-assisted threat analysis
 
-This project represents my long-term interest in AI-native system security.
+This project represents my long-term interest in AI-native system security.  
 Repo : https://github.com/harsheetsharma/sentinel
 
 ---
@@ -86,7 +86,8 @@ Repo : https://github.com/harsheetsharma/sentinel
 
 ---
 ## Contact
-email: harshitsharm8012@gmail.com
+### email: harshitsharm8012@gmail.com
+
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsheetsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -101,4 +102,4 @@ email: harshitsharm8012@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Let’s build systems that don’t break under pressure.
+###Let’s build systems that don’t break under pressure.
