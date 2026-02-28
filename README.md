@@ -1,8 +1,9 @@
 # Hi, I'm Harsheet Sharma
 
-#### Backend & Systems-focused developer building infrastructure-level projects.
+Backend & Systems-focused developer building infrastructure-level projects.
 I’m interested in distributed systems, reliability engineering, secure architectures, and AI-assisted system tooling.
 Currently working on: Sentinel (security-focused system tool)
+
 ---
 ## What I Care About
 
@@ -29,6 +30,7 @@ Core ideas:
 
 Focus: reliability & system resilience.
 Repo : https://github.com/harsheetsharma/opsflow
+
 ---
 
 ### Paytm-Complete
@@ -42,6 +44,7 @@ Key engineering aspects:
 
 This project explores real-world payment system challenges.
 Repo : https://github.com/harsheetsharma/paytm-complete
+
 ---
 
 ### Sentinel (WIP)
@@ -54,6 +57,7 @@ Goal:
 
 This project represents my long-term interest in AI-native system security.
 Repo : https://github.com/harsheetsharma/sentinel
+
 ---
 
 ## 🌐 Socials:
