@@ -54,6 +54,7 @@ Building reliable systems that can execute long-running workflows, recover grace
 
 🔗 **Repository:**  
 https://github.com/harsheetsharma/opsflow
+
 ---
 
 ### 💳 Paytm Complete
@@ -206,8 +207,6 @@ Designing for those scenarios is what makes systems reliable—not just feature 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsheetsharma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harsheetsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📌 Current Goals
